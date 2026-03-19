@@ -68,27 +68,17 @@ npx expo install @expo/metro-runtime
 | Fernanda Rocha | RM554673 |
 
 ## Tela Desenvolvida
-
-<img width="339" height="711" alt="image" src="https://github.com/user-attachments/assets/b4903a74-a127-4dc1-bc8d-0ec0f6fe7c1e" />
-<img width="339" height="720" alt="image" src="https://github.com/user-attachments/assets/247e77a7-d0a1-41af-a01c-6a091ea1cf77" />
+![Tela1](/assets/tela1.png)
+![Tela2](/assets/tela2.png)
 
 
 ## Requisitos Funcionais
 
 ### Usuário ou senha não preenchidos
-<img width="330" height="427" alt="image" src="https://github.com/user-attachments/assets/abcbf99e-7093-4f34-b84a-95b31b14d620" />
-
+![Login1](/assets/sememail.png)
+![Login2](/assets/semsenha.png)
 ### Login Efetuado 
-
-<img width="325" height="313" alt="image" src="https://github.com/user-attachments/assets/47afb138-268c-4469-ae2d-2921e8878c0b" />
-
-### Botão "Manter Conectado"
-
-<img width="190" height="48" alt="image" src="https://github.com/user-attachments/assets/07baa161-4129-440f-b2f9-3cfd0c45fc25" />
-<img width="166" height="37" alt="image" src="https://github.com/user-attachments/assets/61243f6c-4adc-4f0e-b780-07e4ff43b692" />
-
-### Toogle de dark mode
-<img width="123" height="46" alt="image" src="https://github.com/user-attachments/assets/77099c6d-482c-4b3b-9fe9-5da09a65da72" />
+![Login3](/assets/loginrealizado.png)
 
 
 
