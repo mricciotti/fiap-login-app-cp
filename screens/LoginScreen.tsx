@@ -69,7 +69,7 @@ export function LoginScreen() {
                     isDark ? "text-fuchsia-300" : "text-[#B01045]"
                   }`}
                 >
-                  Modo escuro
+                  {isDark ? "☀️" : "🌙"}
                 </Text>
                 <Switch
                   value={isDark}
@@ -82,14 +82,14 @@ export function LoginScreen() {
               <Image
                 source={
                   isDark
-                    ? require("../assets/fiap-logo2.png")
+                    ? require("../assets/fiap-logo-3.png")
                     : require("../assets/fiap-logo.png")
                 }
                 className="mb-5 display-block self-center"
                 style={{
                   width: Platform.OS === "web" ? 100 : 96,
                   height: Platform.OS === "web" ? 100 : 96,
-                  borderRadius: isDark ? 0 : 14,
+                  borderRadius: 94,
                 }}
                 resizeMode="contain"
               />
