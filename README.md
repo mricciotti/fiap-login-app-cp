@@ -23,7 +23,7 @@ Tela de login do Portal do Aluno FIAP, com autenticação via e-mail institucion
 
 - **`InputField`** — campo de texto reutilizável com label, placeholder e suporte a modo senha com ícone de olho para alternar visibilidade.
 - **`Button`** — botão reutilizável com variantes `primary` (vermelho FIAP) e `outline` (borda cinza, fundo branco).
-- <img width="416" height="78" alt="image" src="https://github.com/user-attachments/assets/ba79d6c1-2948-425d-bc87-4226286fc981" />
+
 
 
 ## Estrutura do Projeto
@@ -68,17 +68,20 @@ npx expo install @expo/metro-runtime
 | Fernanda Rocha | RM554673 |
 
 ## Tela Desenvolvida
-![Tela1](/assets/tela1.png)
-![Tela2](/assets/tela2.png)
+![Tela1](/assets/lighMode.png)
+![Tela2](/assets/darkMode.png)
 
 
 ## Requisitos Funcionais
 
 ### Usuário ou senha não preenchidos
-![Login1](/assets/sememail.png)
-![Login2](/assets/semsenha.png)
+![Login1](/assets/sem_email.png)
+![Login2](/assets/sem_senha.png)
 ### Login Efetuado 
-![Login3](/assets/loginrealizado.png)
+![Login3](/assets/logado.png)
 
-
+### Switch's
+![Switch1](/assets/darkLight.png)
+![]
+![Switch2](/assets/usuario.png)
 
