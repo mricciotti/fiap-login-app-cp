@@ -19,10 +19,10 @@ Tela de login do Portal do Aluno FIAP, com autenticação via e-mail institucion
 - [x] Estilização com NativeWind 
 - [x] Identidade visual FIAP
 
-## Componentes Personalizados dentro do COmponents
+## Componentes Personalizados dentro do Components
 
 - **`InputField`** — campo de texto reutilizável com label, placeholder e suporte a modo senha com ícone de olho para alternar visibilidade.
-- **`Button`** — botão reutilizável com variantes `primary` (vermelho FIAP) e `outline` (borda cinza, fundo branco).
+- **`Button`** — componente reutilizável de botão que centraliza estilo e comportamento de clique, com suporte às variações `primary` e `outline`, mantendo consistência visual em toda a tela de login.
 
 
 
