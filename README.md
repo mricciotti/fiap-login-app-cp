@@ -30,16 +30,20 @@ Tela de login do Portal do Aluno FIAP, com autenticação via e-mail institucion
 
 ```
 ├── App.tsx
-├── screens/
-│   └── LoginScreen.tsx
+├── assets/
 ├── components/
 │   ├── InputField.tsx
 │   └── Button.tsx
+├── context/
+│   └── ThemeContext.tsx
+├── screens/
+│   └── LoginScreen.tsx
 ├── styles/
 │   ├── colors.ts
 │   ├── fontFamily.ts
 │   └── global.css
-└── assets/
+└── types/
+
 ```
 
 ## Como Rodar
